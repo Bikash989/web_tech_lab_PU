@@ -1,1 +1,1 @@
-"# web_tech_lab_Pondicherry_University" 
+"# Lab work of web technology"
